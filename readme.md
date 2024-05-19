@@ -27,6 +27,6 @@ psql -U fredrikdev
 CREATE DATABASE kubiefy;
 ```
 
-(Guide on how to setup postgres in docker)[https://betterprogramming.pub/connect-from-local-machine-to-postgresql-docker-container-f785f00461a7]
+[Guide on how to setup postgres in docker](https://betterprogramming.pub/connect-from-local-machine-to-postgresql-docker-container-f785f00461a7)
 
-(Node and keycloak)[https://medium.com/@erinlim555/simple-keycloak-rbac-with-node-js-express-js-bc9031c9f1ba]
+[Node and keycloak](https://medium.com/@erinlim555/simple-keycloak-rbac-with-node-js-express-js-bc9031c9f1ba)
